@@ -3,6 +3,8 @@ import streamlit as st
 import pandas as pd
 import random
 
+st.set_page_config(page_title="Audit Fraud Quiz", layout="wide")
+
 # Load data
 @st.cache_data
 def load_questions():
@@ -10,7 +12,6 @@ def load_questions():
 
 df = load_questions()
 
-st.set_page_config(page_title="Audit Fraud Quiz", layout="wide")
 st.title("🔍 Audit Fraud MCQ Game")
 st.markdown("Test your fraud knowledge by choosing a real Indian fraud case and answering 20 randomized MCQs!")
 
