@@ -1,0 +1,101 @@
+case,question,option_a,option_b,option_c,option_d,answer
+ICICI–Videocon,What was the main allegation against Chanda Kochhar in the ICICI–Videocon case?,Bribery to RBI officials,Sanctioning loans to a shell company,Conflict of interest in loan sanctioning,Market manipulation,c
+ICICI–Videocon,"Which company received a ₹3,250 crore loan from ICICI Bank?",NuPower Renewables,Reliance Capital,Videocon Group,ABG Shipyard,c
+ICICI–Videocon,NuPower Renewables was promoted by whom?,Chanda Kochhar,Venugopal Dhoot,Deepak Kochhar,Rajiv Kochhar,c
+ICICI–Videocon,What did Videocon allegedly do after receiving the ICICI loan?,Invested in shares of ICICI,Loaned money to SEBI,Invested in NuPower Renewables,Merged with a shell company,c
+ICICI–Videocon,What was the nature of the ICICI–Videocon fraud?,Stock rigging,Fake revenue,Loan diversion with conflict of interest,Tax evasion,c
+ICICI–Videocon,Which agency investigated the ICICI–Videocon case?,ED and CBI,RBI and NITI Aayog,SEBI and BSE,GST Council,a
+ICICI–Videocon,What internal failure was most highlighted in this case?,Improper tax audit,No internal board approval,Failure to disclose related party transactions,Bad GST reporting,c
+ICICI–Videocon,Which of these is a red flag in the ICICI–Videocon deal?,Excessive reliance on stock trading,Undisclosed personal benefit to CEO’s spouse,Underreporting GST,Mismatch in FX reporting,b
+ICICI–Videocon,What role did Deepak Kochhar play in the fraud?,He was a co-signatory to the ICICI loan,He was a director in Videocon,He owned the company that received invested funds,He worked at SEBI,c
+ICICI–Videocon,What governance principle was breached?,Audit rotation,Banking secrecy,Disclosure of related parties,Data privacy,c
+ICICI–Videocon,What whistleblower channel played a role in this case?,Anonymous tips to RBI,Internal ICICI complaint,CBI officer leaks,Sebi informant scheme,b
+ICICI–Videocon,What is a classic sign of conflict of interest?,Using personal funds for company loan,Delaying Board meetings,Sanctioning loans where spouse benefits,Misreporting tax,c
+ICICI–Videocon,Which governance body within ICICI initially reviewed the issue?,Internal Audit Committee,Board of Directors,CSR Committee,Risk Advisory Committee,b
+ICICI–Videocon,Which law enforcement agencies registered cases?,Income Tax and GST,RBI and NSE,CBI and Enforcement Directorate,SEBI and Registrar of Companies,c
+ICICI–Videocon,What was a control weakness in ICICI’s credit process?,No documentation check,Non-segregation of duties in approval process,Lack of FX hedging,Weak IT systems,b
+ICICI–Videocon,What is the importance of related party disclosure in audit?,It allows cost optimization,It helps calculate tax,It ensures transactions are at arm’s length,It avoids delays in payment,c
+ICICI–Videocon,What should an auditor do when spotting a potential related party benefit?,Report to bank manager,Confirm stock price,Escalate to Audit Committee,Ignore if Board approved it,c
+ICICI–Videocon,Why is governance review critical in large loan approvals?,To fast-track disbursal,To calculate interest,To verify promoter linkages,To reduce branch delays,c
+ICICI–Videocon,Which financial crime does this case represent?,Cyber fraud,Insider trading,Loan fraud with kickbacks,Shell company fraud,c
+ICICI–Videocon,What is one key learning from the ICICI–Videocon fraud?,Don’t lend to energy companies,Board approval is always final,Auditors must go beyond financials to governance,Use SWIFT for all loans,c
+ABG Shipyard,What is the total fraud amount involved in the ABG Shipyard case?,"Rs. 12,000 crore","Rs. 18,000 crore","Rs. 22,842 crore","Rs. 25,000 crore",c
+ABG Shipyard,Which audit firm conducted the forensic audit in ABG Shipyard’s case?,Deloitte,PwC,EY (Ernst & Young),KPMG,c
+ABG Shipyard,Who was the Chairman of ABG Shipyard during the period of the fraud?,Rajeev Kumar,Rishi Agarwal,Sandeep Mehta,Ashok Khurana,b
+ABG Shipyard,What was the primary modus operandi of the ABG Shipyard fraud?,Bribing officials,Insider trading,Loan diversion and fund misappropriation,Overstating fixed assets,c
+ABG Shipyard,Which government agency registered a case against ABG Shipyard?,RBI,CBI,ED,SEBI,b
+ABG Shipyard,How many banks were reportedly affected in the ABG Shipyard fraud?,12,20,25,28,d
+ABG Shipyard,Which bank had the largest exposure to ABG Shipyard?,Bank of India,IDBI Bank,SBI,ICICI Bank,c
+ABG Shipyard,What was a major red flag in ABG’s financials?,No cash flow statement,Delayed project execution with high receivables,Negative inventory,Missing audit report,b
+ABG Shipyard,What role did circular transactions play in this fraud?,Used to inflate stock prices,Used to delay tax filings,Used to show fake revenue,Used to divert funds among group companies,d
+ABG Shipyard,What should auditors check when there is high receivable growth?,Verify tax payments,Match receivables with customer confirmations and delivery records,Ignore if board approves,Just check last year’s balance,b
+ABG Shipyard,Which financial report helped uncover the fraud?,Audit committee notes,Forensic audit by EY,ICAI inspection report,GST audit,b
+ABG Shipyard,What was ABG Shipyard’s core business?,Aviation,Steel manufacturing,Shipbuilding and repair,Logistics,c
+ABG Shipyard,What internal audit failure was found in the company?,No stock check,Failure to flag fund diversion,Lack of payroll data,Wrong tax codes,b
+ABG Shipyard,Which of the following is a key audit procedure in verifying fund utilization?,Check attendance,Cross-verify fund flow with supplier data,Ask CFO orally,Look only at bank balance,b
+ABG Shipyard,What could have helped prevent this fraud?,Quarterly bank reconciliation,End-use verification of loan funds,Hiring more interns,Ignoring board pressure,b
+ABG Shipyard,What kind of companies were used in fund diversion?,Stock listed companies,Tax-exempt NGOs,Shell companies,Insurance providers,c
+ABG Shipyard,Why was the fraud detected late?,Banks were lenient,Statutory audit missed misstatements,Forensic audit was not initiated earlier,CBI delayed complaint,c
+ABG Shipyard,Which financial document helps identify working capital misuse?,Cash flow statement,HR sheet,Loan agreement,Press release,a
+ABG Shipyard,What type of audit was crucial in this case?,Environmental audit,System audit,Forensic audit,Tax audit,c
+ABG Shipyard,Which agency assisted CBI with financial analysis?,NITI Aayog,RBI,MCA,EY Forensic Division,d
+Harshad Mehta,In which year did the Harshad Mehta scam come to light?,1987,1992,1999,2003,b
+Harshad Mehta,What was the core instrument used by Harshad Mehta to exploit the banking system?,Share certificates,Fixed deposits,Bank Receipts (BRs),Mutual Funds,c
+Harshad Mehta,Which journalist is credited with exposing the scam?,Arnab Goswami,Sucheta Dalal,Ravish Kumar,Barkha Dutt,b
+Harshad Mehta,Harshad Mehta was primarily known as a:,Stockbroker,Chartered Accountant,Bank Manager,Auditor,a
+Harshad Mehta,Which government agency investigated the scam?,CBI,ED,SEBI,RBI,a
+Harshad Mehta,What was the approximate value of the scam as estimated in 1992?,"Rs. 3,000 crore","Rs. 5,000 crore","Rs. 4,000 crore","Rs. 1,000 crore",c
+Harshad Mehta,Which bank’s name became most associated with the scam?,ICICI,HDFC,State Bank of India (SBI),Yes Bank,c
+Harshad Mehta,Which financial market did Harshad Mehta manipulate?,Bond market,Foreign exchange market,Stock market,Commodity market,c
+Harshad Mehta,What was the loophole used by Mehta in interbank transactions?,Bribing officials,Using fake invoices,Misuse of Bank Receipts without backing securities,Overstated tax refunds,c
+Harshad Mehta,What did the banks fail to verify in the scam?,Debtors,Stock prices,Existence of securities in BRs,Loan tenures,c
+Harshad Mehta,What is a key audit failure highlighted by the scam?,Ignoring board minutes,Not checking interest rates,Failure to verify asset backing of transactions,Delayed tax reconciliation,c
+Harshad Mehta,Which stock index saw a sharp rise during the manipulation?,BSE Sensex,Nifty 50,BSE 100,NSE Midcap,a
+Harshad Mehta,Which regulatory body was still young and reactive at the time?,NSE,CBI,RBI,SEBI,d
+Harshad Mehta,What type of securities was falsely claimed in Bank Receipts?,Equity shares,Government bonds,Corporate bonds,Preference shares,b
+Harshad Mehta,What media format popularized the Harshad Mehta story in 2020?,Podcast,Movie,TV Series,YouTube Video,c
+Harshad Mehta,What is the name of the 2020 TV series on the scam?,Scam 2003,The Big Bull,Scam 1992,Dalal Street,c
+Harshad Mehta,What learning did this scam leave for auditors?,Always confirm BRs and supporting documentation,Focus only on income side,Trust SEBI alerts,Ignore bank confirmations,a
+Harshad Mehta,Which key audit principle was violated?,Materiality,Going concern,Existence,Dual aspect,c
+Harshad Mehta,What role did internal controls play in the scam?,Internal controls prevented fraud,Internal controls were overridden or absent,Controls were strong but ignored by RBI,Auditors had nothing to report,b
+Harshad Mehta,What is the best preventive audit measure for such scams?,Tax audit,Cash flow analysis,Verification of third-party confirmations,Trial balance matching,c
+Ketan Parekh,Ketan Parekh was primarily known as a:,Chartered Accountant,Banker,Stockbroker,SEBI Official,c
+Ketan Parekh,The scam took place during which market boom?,1992 liberalization,2008 financial crisis,Dotcom boom (1999–2001),Covid bull run,c
+Ketan Parekh,What group of stocks did Ketan Parekh famously manipulate?,Sensex 30,Midcap 50,K-10 stocks,Tech 15,c
+Ketan Parekh,Which co-operative bank was used by Ketan Parekh to fund his scam?,PMC Bank,Madhavpura Mercantile Co-op Bank,Saraswat Bank,Amul Bank,b
+Ketan Parekh,Which technique was used by Parekh to rig prices?,Options hedging,Circular trading,Forex swaps,Mutual fund layering,b
+Ketan Parekh,What was the approximate size of the scam?,Rs. 500 crore,"Rs. 1,200 crore","Rs. 2,000 crore","Rs. 3,500 crore",b
+Ketan Parekh,Who was the regulatory body that investigated the case?,RBI,SEBI,IRDAI,ED,b
+Ketan Parekh,What role did UTI play in the scam context?,Refused to invest,Blindly invested in K-10 stocks,Alerted SEBI,Filed FIR,b
+Ketan Parekh,Why was the scam detected?,Losses by retail investors,Bank payment defaults and market crash,Insider complaint,Media sting,b
+Ketan Parekh,What is circular trading?,Placing orders at foreign exchanges,Using the same stockbroker across firms,Artificially creating volume by buying and selling among related parties,Skipping settlement dates,c
+Ketan Parekh,What audit failure was seen in this case?,Unverified tax payments,Concentration risk not flagged,GST mismatches,Payroll issues,b
+Ketan Parekh,Which financial instrument did Parekh use excessively?,Debentures,Loans against shares,Preference shares,Depository Receipts,b
+Ketan Parekh,Which investor group was most affected?,Insurance firms,Retail investors,PSUs,NBFCs,b
+Ketan Parekh,What control could prevent such manipulation?,Weekly inventory check,Limit on broker concentration,Randomized salary audit,Increased insurance,b
+Ketan Parekh,What caused the K-10 stocks to crash?,Poor company fundamentals,Market awareness of artificial trading,Intervention by NCLT,Regulatory audit of promoters,b
+Ketan Parekh,What punishment did SEBI impose?,Imprisonment,10-year trading ban,Income tax raid,GST license suspension,b
+Ketan Parekh,Which city was Parekh based in?,Mumbai,Delhi,Ahmedabad,Kolkata,a
+Ketan Parekh,Which of the following is a red flag in stock audits?,High revenue,Unusual price–volume spikes,Stock splits,Board approvals,b
+Ketan Parekh,Which of these is a preventive control?,Limit setting for broker exposure,Bonus issuance,IPO participation,Dividend tracking,a
+Ketan Parekh,What lesson does the Parekh scam offer auditors?,Review related party tax only,Ignore trading data,Watch for concentration and circular trades,Skip SEBI alerts,c
+Talwalkars Gym,What was the core allegation in the Talwalkars Gym fraud?,GST evasion,Stock rigging,Fictitious revenue and undisclosed debt,Insider trading,c
+Talwalkars Gym,What was the official name of the listed company involved?,Talwalkars Fitness India Ltd.,Better You Gym Ltd.,Talwalkars Better Value Fitness Ltd.,Talwalkars Mega Gym Ltd.,c
+Talwalkars Gym,Which financial instrument did Talwalkars default on?,Mutual fund redemptions,Debentures,Equity shares,Loans from NBFCs,b
+Talwalkars Gym,Which regulator suspended trading of Talwalkars shares?,RBI,CBI,SEBI,IRDAI,c
+Talwalkars Gym,What financial inconsistency triggered investigation?,Mismatch in income tax filings,Fake franchise outlets,Difference between media announcements and stock exchange filings,Absence of director KYC,c
+Talwalkars Gym,What is one major red flag auditors could have caught?,Missing TDS certificates,Same revenue pattern across all outlets,Revenue from non-existent gym outlets,Late GST payment,c
+Talwalkars Gym,What was Talwalkars primarily engaged in?,Salon business,Healthcare product sales,Gym and wellness centers,Online fitness streaming,c
+Talwalkars Gym,How did Talwalkars inflate its financials?,Understated depreciation,Fake cash sales,Fake store openings and inflated revenue,Transfer pricing misuse,c
+Talwalkars Gym,What type of lending exposure was hidden from investors?,NBFC advances,Bank overdrafts,Inter-corporate borrowings,Unsecured loans,d
+Talwalkars Gym,Which SEBI regulation was likely breached?,Buyback Code,Disclosure norms for listed companies,Mutual fund investment rules,Takeover Code,b
+Talwalkars Gym,What internal audit weakness was noted?,Payroll errors,Unverified revenue sources and weak controls over outlet reporting,Missing fixed asset register,Incorrect VAT returns,b
+Talwalkars Gym,Why is reconciliation of outlet-level sales important?,To track loyalty points,For better marketing,To confirm actual earnings match reported revenue,For GST invoice generation,c
+Talwalkars Gym,How did auditors miss the red flags?,Overreliance on management data without external verification,Too many branches,Lack of SAP access,Delays in statutory filings,a
+Talwalkars Gym,What forensic measure could have exposed the fraud earlier?,Valuation report,Debenture trustee audit,Outlet-level sales tie-up with system logs,Inventory count,c
+Talwalkars Gym,What category of accounting manipulation was used?,Overstated expenses,Channel stuffing,Fictitious revenue recognition,Tax shield claims,c
+Talwalkars Gym,Which document mismatch was a major trigger?,Board resolution vs AGM,Annual return vs MCA filings,Media vs SE filing announcements,Trial balance vs PL,c
+Talwalkars Gym,What kind of debt was hidden?,Pledged shares,Corporate FDs,Convertible preference shares,Undisclosed unsecured loans,d
+Talwalkars Gym,What lesson should auditors learn from Talwalkars?,Ignore retail companies,Rely only on cash flow,Reconcile branch-level data independently,Trust press statements,c
+Talwalkars Gym,What was the impact on investors?,Dividend payout increased,Share value crashed and trading suspended,Bonus issue declared,All shares bought back,b
+Talwalkars Gym,Which financial metric was most distorted?,EBITDA margin,Debt-equity ratio,Asset turnover,Operating profit,b
