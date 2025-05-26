@@ -71,4 +71,4 @@ if st.button("✅ Submit Answers"):
     st.markdown("---")
     st.markdown("### ✉️ Submit your score to Madhu")
     st.markdown("Click below to submit your result.")
-    st.link_button("📨 Submit via Google Form", "https://docs.google.com/forms/d/e/1FAIpQLSebeYndLmPRU9557xtOa4UuJ83xIC6SpOXXpu5qcd8nUlGIig/viewform?usp=dialog")
+    st.link_button("📨 Submit via Google Form", "https://forms.gle/HDQMTwk6x8CrhiUA9")
